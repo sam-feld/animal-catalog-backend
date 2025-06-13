@@ -1,0 +1,36 @@
+{
+    "name": "Baphomet Moth",
+    "sciName": "Creatonotos gangis",
+    "description": [
+      "The Baphomet Moth, also known as Creatonotos gangis, is a species of moth in the Erebidae family, primarily found in Southeast Asia and Australia. It is known for its striking black and white wing patterns and its unusual, inflatable coremata—bright red scent organs that males use to release pheromones and attract mates. This species thrives in tropical and subtropical regions, where it primarily feeds on plants from the Aristolochiaceae family. The larvae, commonly referred to as woolly bear caterpillars, have dense, bristly hairs and feed on a variety of host plants, sometimes making them agricultural pests. Despite its eerie name and appearance, the Baphomet Moth is completely harmless to humans and plays a role in pollination within its ecosystem.",
+      "One of the most fascinating features of the Baphomet Moth (Creatonotos gangis) is its inflatable coremata, which resemble red, fleshy tendrils that extend from its abdomen. These organs release pheromones derived from alkaloids found in its diet, and their size is directly influenced by how much the caterpillar stage consumed. Males with larger coremata are more attractive to females, making diet a crucial factor in reproductive success. Interestingly, this moth’s caterpillars can be considered agricultural pests, as they feed on crops like sweet potatoes and rice. Despite its somewhat unsettling appearance, the Baphomet Moth is completely harmless and plays an important role in pollination and maintaining biodiversity.",
+      "Click <a class=\"link\" href=\"https://en.wikipedia.org/wiki/Creatonotos_gangis\" target=\"_blank\">here</a> to learn more about Baphomet Moths at Wikipedia."
+    ],
+    "images": [
+      "https://lepidoptera.butterflyhouse.com.au/arct/gangis4.jpg",
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/183867918/original.jpg",
+      "https://preview.redd.it/this-is-the-baphomet-moth-or-creatonotos-gangis-it-is-v0-y634kemkyk7a1.jpg?width=640&crop=smart&auto=webp&s=5f9cd191ec2180a8980a238b83d6546caa5d9b95",
+      "https://inaturalist-open-data.s3.amazonaws.com/photos/110222440/large.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/HoGRmiVioTE?si=NBMqHn6L1SiE2S8V",
+    "events": [
+      {
+        "name": "Exhibit at Museum",
+        "date": "1/18/2025",
+        "url": "https://www.amnh.org/calendar"
+      },
+      {
+        "name": "Lecture",
+        "date": "2/5/2025",
+        "url": "https://www.amnh.org/calendar"
+      },
+      {
+        "name": "Meet the Baphomet Moth",
+        "date": "3/8/2025",
+        "url": "https://www.amnh.org/calendar"
+      }
+    ],
+    "id": "4",
+    "createdByUser": "1"
+  }
+  

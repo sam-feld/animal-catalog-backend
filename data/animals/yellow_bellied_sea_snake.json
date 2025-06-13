@@ -1,0 +1,36 @@
+{
+    "name": "Yellow-bellied sea snake",
+    "sciName": "Hydrophis platurus",
+    "description": [
+      "The Yellow-bellied sea snake is a highly venomous species of sea snake found in tropical oceanic waters around the world. It is the only pelagic sea snake, meaning it spends its entire life in the open ocean, primarily in warm waters of the Pacific and Indian Oceans. Recognizable by its striking coloration—black or dark brown on top with a bright yellow underside—it uses its laterally flattened body and paddle-like tail for efficient swimming. This species preys on small fish and relies on its potent neurotoxic venom to immobilize its prey. Unlike many other sea snakes, it does not need to come ashore, as it can absorb oxygen through its skin, allowing it to remain submerged for extended periods.",
+      "The Yellow-bellied sea snake has some remarkable adaptations that make it well-suited for a life at sea. It can survive without drinking freshwater by absorbing moisture from the surface of the ocean when it rains, a rare ability among marine reptiles. Unlike most snakes, it can remain motionless for long periods, floating passively with ocean currents to conserve energy while waiting to ambush prey. Its venom is highly potent, containing neurotoxins that can cause paralysis, though bites on humans are rare due to its generally non-aggressive nature. Additionally, it has been found thousands of miles from land, making it one of the most widely distributed snake species in the world.",
+      "Click <a class=\"link\" href=\"https://australian.museum/learn/animals/reptiles/yellow-bellied-sea-snake/\"  target=\"_blank\" rel=\"noopener noreferrer\">here</a> to learn more about the Yellow-bellied sea snake from the Australian Museum."
+    ],
+    "images": [
+      "https://shmulif.github.io/animal-images/snake/Hydrophis-Leonard.jpg",
+      "https://shmulif.github.io/animal-images/snake/yellow_bellied_sea_snake1.webp",
+      "https://shmulif.github.io/animal-images/snake/yellow_bellied_sea_snake2.webp",
+      "https://shmulif.github.io/animal-images/snake/yellow_bellied_sea_snake3.webp"
+    ],
+    "video": "https://www.youtube.com/embed/YbUnYbje4dA",
+    "events": [
+      {
+        "name": "Snake Fashion Show: \"Slithering in Style\"",
+        "date": "08/15/2024",
+        "url": "https://www.prestigeonline.com/th/style/embrace-the-lunar-new-year-with-chic-snake-inspired-fashion-and-accessories/#google_vignette"
+      },
+      {
+        "name": "Venomous Vibes: The Try Not to Get Bitten Challenge",
+        "date": "03/31/2025",
+        "url": "https://www.reddit.com/r/snakes/comments/1irn40v/so_how_do_you_not_get_bitten/"
+      },
+      {
+        "name": "Museum's Annual Office Chair Race",
+        "date": "06/20/2025",
+        "url": "http://www.officechairrace.com"
+      }
+    ],
+    "id": "3",
+    "createdByUser": "1"
+  }
+  

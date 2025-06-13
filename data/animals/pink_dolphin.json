@@ -1,0 +1,41 @@
+{
+    "name": "Pink dolphin",
+    "sciName": "Inia geoffrensis",
+    "description": [
+        "The pink dolphin, also known as the Amazon river dolphin, is a species of dolphin found in South America. As a river dolphin, it thrives in freshwater habitats, and has a varied diet of Amazon catfish, scaled fish, piranhas, and bottom-dwelling crustaceans. There are three known subspecies of pink dolphin, specifically the Amazon river dolphin, the Bolivian river dolphin, and the Orinoco river dolphin. These subspecies can be found in the Amazon basin in Brazil, the Madeira River in Bolivia, and the Orinoco basin in Colombia respectively. The pink dolphin is currently endangered due to the impact of pollution, fishing, and hunting.",
+        "Despite their name, pink dolphins are born gray and acquire their pink color as they get older. Male pink dolphins also tend to have a more pronounced pink color than female pink dolphins. Pink dolphins are curious and tend to approach boats and other foreign objects. They typically travel alone or in pairs, but have also been recorded to move in pods of up to 37 dolphins. They rely heavily on echolocation for maneuvering and hunting as a result of the murky river waters.",
+        "Click <a class=\"link\" href=\"https://www.junglexperiences.com/blog/pink-dolphin/\" target=\"_blank\" rel=\"noopener noreferrer\">here</a> to learn more about pink dolphins at this article by Jungle Experiences, a cruise line that has pink dolphins as an integral part of their cruises."
+    ],
+    "images": [
+        "https://www.junglexperiences.com/wp-content/uploads/2024/05/El-encanto-de-los-delfines-rosados.png",
+        "https://www.junglexperiences.com/wp-content/uploads/2024/05/Conociendo-al-delfin-rosado.png",
+        "https://www.junglexperiences.com/wp-content/uploads/2024/05/Comportamiento-e-interacciones.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Inia_geoffrensis_179341177.jpg/1280px-Inia_geoffrensis_179341177.jpg"
+    ],
+    "video": "https://www.youtube.com/embed/9vgey6Md0Cw",
+    "events": [
+        {
+            "name": "Snorkeling with Pink Dolphins",
+            "date": "08/18/2024",
+            "url": "https://web.archive.org/web/20240205072545/https://www.bigfishexpeditions.com/trips/snorkeling/amazon-pink-dolphins/"
+        },
+        {
+            "name": "Meeting of the Waters & Pink Dolphin Tour",
+            "date": "02/27/2024",
+            "url": "https://www.tripadvisor.com/AttractionProductReview-g303235-d15342300-Meeting_of_the_Waters_Pink_Dolphin_Tour_with_Lunch-Manaus_Amazon_River_State_of_Am.html"
+        },
+        {
+            "name": "Snorkeling with Pink Dolphins",
+            "date": "06/10/2025",
+            "url": "https://www.bigfishexpeditions.com/trips/snorkeling/amazon-pink-dolphins/"
+        },
+        {
+            "name": "30-Day Amazon Explorer Cruise with Pink Dolphin Encounter",
+            "date": "11/21/2025",
+            "url": "https://www.hollandamerica.com/en/us/find-a-cruise/s5x30a/v558"
+        }
+    ],
+    "id": "1",
+    "createdByUser": "303"
+
+}

@@ -1,0 +1,37 @@
+{
+    "name": "Threadwing Antlion",
+    "sciName": "Dielocroce hebraea",
+    "description": [
+        "Belonging to the family Nemopteridae, the threadwing antlion is a type of insect with long and thin hindwings. The threadwings (subfamily Crocinae) are strictly nocturnal and share their family with the spoonwings (subfamily Nemopterinae) who are instead active during the day. Members of subfamily Crocinae appear in a very limited selection of habitats, preferring arid deserts and caves with thick layers of dust or fine clay. The larvae of these insects are ground dwelling creatures, leveraging the clay dust as a disguise.",
+        "In their larval stages, they have an extremely long neck and thick body, making them appear like a violin with long legs attached. These larvae are dangerous predators, leveraging their long necks and sickle-shaped mouths to inject venom into unsuspecting prey that they catch off guard. These creatures lie in wait in sand and clay, with only their necks protruding from the dust, springing up when a victim falls into their trap. The long necks also keeps prey away from the vulnerable body of the insect.",
+        "Click <a class=\"link\" href=\"https://gilwizen.com/threadwing-antlions/\">here</a> to learn more about threadwing antlions on Gil Wizen's entomology and photography blog, documenting the creatures. All images on this page are taken from this blog, and are exclusively owned by Gil Wizen."
+    ],
+    "images": [
+        "https://shmulif.github.io/animal-images/ThreadwingAntlion/Dielocroce-hebraea-larva.jpg",
+        "https://shmulif.github.io/animal-images/ThreadwingAntlion/Dielocroce-hebraea-larva-2.jpg",
+        "https://shmulif.github.io/animal-images/ThreadwingAntlion/Dielocroce-hebraea-pupa.jpg",
+        "https://shmulif.github.io/animal-images/ThreadwingAntlion/Dielocroce-hebraea-emergence.jpg",
+        "https://shmulif.github.io/animal-images/ThreadwingAntlion/Dielocroce-hebraea-head.jpg",
+        "https://shmulif.github.io/animal-images/ThreadwingAntlion/Dielocroce-hebraea-adult.jpg"
+    ],
+    "video" : "https://www.youtube.com/embed/EG8FedT7Ras",
+    "events": [
+        {
+            "name": "Photography Showcase",
+            "date": "01/30/2025",
+            "url": "https://gilwizen.com/invertebrates/insects/neuroptera/"
+        },
+        {
+            "name": "Talk on Feeding Behaviours",
+            "date": "02/15/2025",
+            "url": "https://www.eje.cz/artkey/eje-200802-0013_flower_visiting_neuroptera_mouthparts_and_feeding_behaviour_of_nemoptera_sinuata_nemopteridae.php"
+        },
+        {
+            "name": "Talk on Larval Stages",
+            "date": "04/01/2025",
+            "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/mmnd.19960430111"
+        }
+    ],
+    "id": "2",
+    "createdByUser": "305"
+}

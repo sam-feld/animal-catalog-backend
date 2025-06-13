@@ -1,0 +1,69 @@
+<html>
+    <head>
+        <title>Yellow-bellied sea snake</title>
+        <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+        <link rel="stylesheet" href="styles/style.css">
+    </head>
+    <body>
+        <div class="navbar">
+            <a href="#title"><img class="nav-logo" src="images/national-geographic-logo.png" alt="national geographic logo"></a>
+            <a href="#about" class="nav-link" href="">About</a>
+            <a href="#images" class="nav-link" href="">Images</a>
+            <a href="#videos" class="nav-link" href="">Videos</a>
+            <a href="#events" class="nav-link" href="">Events</a>
+        </div>
+        <div class="flex flex-justify-center">
+            <div class="main-container">
+                <h1 id="title" class="title-heading">Yellow-bellied sea snake</h1>
+                <p class="scientific-name">Hydrophis platurus</p>
+                <img class="title-image" src="images/Hydrophis-Leonard.jpg" alt="placeholder image">
+                <h2 id="about" class="about-label">About</h2>
+                <p class="about-paragraph">The Yellow-bellied sea snake is a highly venomous species of sea snake found in tropical oceanic waters around the world. It is the only pelagic sea snake, meaning it spends its entire life in the open ocean, primarily in warm waters of the Pacific and Indian Oceans. Recognizable by its striking coloration—black or dark brown on top with a bright yellow underside—it uses its laterally flattened body and paddle-like tail for efficient swimming. This species preys on small fish and relies on its potent neurotoxic venom to immobilize its prey. Unlike many other sea snakes, it does not need to come ashore, as it can absorb oxygen through its skin, allowing it to remain submerged for extended periods.</p>
+                <p class="about-paragraph">The Yellow-bellied sea snake has some remarkable adaptations that make it well-suited for a life at sea. It can survive without drinking freshwater by absorbing moisture from the surface of the ocean when it rains, a rare ability among marine reptiles. Unlike most snakes, it can remain motionless for long periods, floating passively with ocean currents to conserve energy while waiting to ambush prey. Its venom is highly potent, containing neurotoxins that can cause paralysis, though bites on humans are rare due to its generally non-aggressive nature. Additionally, it has been found thousands of miles from land, making it one of the most widely distributed snake species in the world.</p>
+                <p class="about-paragraph">Click <a class="link" href="https://australian.museum/learn/animals/reptiles/yellow-bellied-sea-snake/">here</a> to learn more about the Yellow-bellied sea snake from the Australian Museum.</p>
+                <h2 id="images">Images</h2>
+
+                <div class="slideshow-container">
+                    <div>
+                        <img id="slideshow-image" class = "slideshow-image set-cursor-to-pointer" ondblclick="prevImage()" src="images/placeholder.svg" alt="placeholder image">
+                    </div>
+                    <div class="slideshow-button-container">
+                        <button class="slideshow-button" onclick="prevImage()"><</button>
+                        <p><span id="slideshow-index">0</span>/<span id="slideshow-total">0</span></p>
+                        <button class="slideshow-button" onclick="nextImage()">></button>
+                    </div>
+                </div>
+                
+                <h2 id="videos">Videos</h2>
+                <div class="video-container">
+                    <iframe class="video" src="https://www.youtube.com/embed/YbUnYbje4dA"></iframe>
+                </div>
+                <h2 id="events" class="no-margin">Events</h2>
+                <p class="today-date">Today's Date: <span id = "date-display"></span></p>
+                
+                <div id = "event-container"></div>
+            </div>
+        </div>
+        <div class="footer">
+            <div class="links-container">
+                <h4>Legal</h4>
+                <a href="https://disneytermsofuse.com/english/">Terms of Use</a>
+                <a href="https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/">Privacy Policy</a>
+            </div>
+            <div class="links-container">
+                <h4>Join Us</h4>
+                <a href="https://www.nationalgeographic.com/subscribe/magazines?cmpid=int_org=ngp::int_mc=website::int_src=ngp::int_cmp=subs_ngm::int_add=navsubscribe_us">Subscribe</a>
+                <a href="https://help.nationalgeographic.com/">Customer Service</a>
+                <a href="https://www.nationalgeographic.com/pages/topic/careers">Work at Nat Geo</a>
+            </div>
+            <div class="links-container">
+                <h4>Follow Us</h4>
+                <a href="https://www.instagram.com/natgeo/">Instagram</a>
+                <a href="https://www.facebook.com/natgeo">Facebook</a>
+                <a href="https://www.youtube.com/@NatGeo">Youtube</a>
+            </div>
+        </div>
+        <script src="dist/frontend.js"> </script>
+    </body>
+</html>
+
